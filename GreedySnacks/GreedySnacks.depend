@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1589677546 source:d:\我的代码\greedysnacks\controller.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"controller.h"
+	"tools.h"
+	"startinterface.h"
+	"map.h"
+	"snake.h"
+	"food.h"
+
+1589681044 d:\我的代码\greedysnacks\controller.h
+
+1587913966 d:\我的代码\greedysnacks\tools.h
+
+1589675095 d:\我的代码\greedysnacks\startinterface.h
+	<deque>
+	<vector>
+	"point.h"
+
+1587950567 d:\我的代码\greedysnacks\point.h
+
+1589641084 d:\我的代码\greedysnacks\map.h
+	<vector>
+	"point.h"
+
+1589680785 d:\我的代码\greedysnacks\snake.h
+	<deque>
+	"point.h"
+	"food.h"
+
+1589681075 d:\我的代码\greedysnacks\food.h
+	"snake.h"
+
+1589676697 source:d:\我的代码\greedysnacks\food.cpp
+	"food.h"
+	"tools.h"
+	<cstdlib>
+	<iostream>
+
+1587972779 source:d:\我的代码\greedysnacks\main.cpp
+	"controller.h"
+
+1587956621 source:d:\我的代码\greedysnacks\map.cpp
+	"map.h"
+	<windows.h>
+
+1589618618 source:d:\我的代码\greedysnacks\point.cpp
+	"point.h"
+	"tools.h"
+	<iostream>
+
+1589674187 source:d:\我的代码\greedysnacks\snake.cpp
+	"snake.h"
+	<conio.h>
+	"tools.h"
+	<iostream>
+
+1589619438 source:d:\我的代码\greedysnacks\startinterface.cpp
+	"startinterface.h"
+	<windows.h>
+
+1587951907 source:d:\我的代码\greedysnacks\tools.cpp
+	"tools.h"
+	<windows.h>
+	<stdio.h>
+
